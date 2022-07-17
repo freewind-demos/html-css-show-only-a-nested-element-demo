@@ -1,4 +1,6 @@
-#main {
-  color: red;
-  font-size: 30px;
+.panel {
+    border: 3px solid red;
+    padding: 20px;
 }
+
+

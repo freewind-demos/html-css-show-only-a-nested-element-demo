@@ -1,0 +1,13 @@
+body * {
+    visibility: hidden;
+    margin: 0;
+    padding: 0;
+}
+
+#hello {
+    position: absolute;
+    display: block;
+    top: 0;
+    left: 0;
+    visibility: visible;
+}
